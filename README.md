@@ -3,7 +3,7 @@ Meu ***segundo*** jogo em Javascript! Esse foi divertido porque aprendi a organi
 
 Dê uma olhada clicando [aqui!](freeway-lime.vercel.app)
 
-![image](https://github.com/nemilapoles/pinguepongue/blob/main/Untitled.png?raw=true)
+![image](https://raw.githubusercontent.com/nemilapoles/freeway/main/Capturar.PNG)
 
 ## Feito por:
 ### **Milena Lopes**
